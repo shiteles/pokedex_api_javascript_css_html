@@ -7,11 +7,11 @@
 <p align="center"> <img src="assets/img/pokedex.gif"  width ="50%"> </p>
 <br />
 
-
+* **[Acesse o projeto aqui ♥](https://shiteles.github.io/pokedex_api_javascript_css_html/)**
 ---
 ##  *Tecnologias*
 
-As seguintes ferramentas foram usadas na construção dos projetos:
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
 <p align="center">
    
